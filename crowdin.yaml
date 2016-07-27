@@ -1,0 +1,4 @@
+files:
+  - 
+    source: /git.txt
+    translation: '/git-%two_letters_code%.txt'
